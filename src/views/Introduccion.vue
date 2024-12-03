@@ -26,8 +26,8 @@
     p.mb-5(data-aos='fade-right') ¡Te invitamos a explorar el mundo de la programación orientada a objetos, donde descubrirás cómo crear #[em software] robusto y flexible, aplicando principios y patrones que han resistido la prueba del tiempo!
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/BktcL3QiGKA?si=ewQ8hEH1cHsvES6j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Programación orientada a objetos conceptos y modelado.
 
 
 

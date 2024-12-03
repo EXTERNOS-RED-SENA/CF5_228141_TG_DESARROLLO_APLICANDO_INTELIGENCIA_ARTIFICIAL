@@ -116,9 +116,7 @@
               i.fas.fa-check-circle(style="color: #1169E3")
               p.mb-0 Sirven como documentación viva del proyecto
         p.mb-0 El modelado UML no debe verse como un ejercicio académico, sino como una herramienta práctica que nos ayuda a visualizar y comunicar nuestras ideas antes de comenzar a escribir código. Un buen modelo UML puede prevenir malentendidos costosos y guiar el desarrollo de manera efectiva.
-          br
-          br
-          |En el próximo capítulo, exploraremos cómo estos modelos se traducen en implementaciones concretas, y cómo los patrones de diseño nos ayudan a resolver problemas comunes de manera elegante y probada.
+    p.mb-5 En el próximo capítulo, exploraremos cómo estos modelos se traducen en implementaciones concretas, y cómo los patrones de diseño nos ayudan a resolver problemas comunes de manera elegante y probada.
 
 
 

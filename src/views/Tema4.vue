@@ -14,7 +14,7 @@
     Separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 4.1 Patrones de diseño fundamentales
-    p.mb-4 Los patrones de diseño son como recetas probadas que resuelven problemas comunes en el desarrollo de software. Imagina que eres un arquitecto de edificios: así como existen patrones arquitectónicos probados para diseñar escaleras, ventanas o estructuras de soporte, en el software tenemos patrones que nos ayudan a resolver desafíos recurrentes.
+    p.mb-4 Los patrones de diseño son como recetas probadas que resuelven problemas comunes en el desarrollo de #[em software]. Imagina que eres un arquitecto de edificios: así como existen patrones arquitectónicos probados para diseñar escaleras, ventanas o estructuras de soporte, en el #[em software] tenemos patrones que nos ayudan a resolver desafíos recurrentes.
     .row.justify-content-center.mb-5
       .col-lg-5.col-7.mb-lg-0.mb-3: img(src='@/assets/curso/temas/29.png', alt='')
       .col-lg-7
@@ -23,7 +23,7 @@
             .col-lg-2.col-5.mb-lg-0.mb-3: img(src='@/assets/curso/temas/30.svg', alt='')
             .col-lg-10
               p.mb-0 Consideremos un sistema de notificaciones en una red social moderna. Cuando un usuario realiza una acción significativa (publicar una foto, comentar, dar "me gusta"), varios componentes del sistema necesitan reaccionar: las notificaciones push deben enviarse, los contadores deben actualizarse, las cachés deben invalidarse. Este escenario perfecto para el patrón Observer permite que múltiples componentes respondan a eventos sin acoplarse entre sí.
-        p.mb-0 Los patrones creacionales, como Factory Method y Builder, son particularmente valiosos en sistemas que deben ser flexibles en la creación de objetos. Por ejemplo, en un sistema de procesamiento de documentos, podríamos necesitar crear diferentes tipos de documentos (PDF, Word, HTML) sin que el código cliente necesite conocer los detalles específicos de cómo se construye cada formato.
+        p.mb-0 Los patrones creacionales, como #[em Factory Method] y #[em Builder], son particularmente valiosos en sistemas que deben ser flexibles en la creación de objetos. Por ejemplo, en un sistema de procesamiento de documentos, podríamos necesitar crear diferentes tipos de documentos (PDF, Word, HTML) sin que el código cliente necesite conocer los detalles específicos de cómo se construye cada formato.
     Separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 4.2 Arquitectura limpia con POO
@@ -51,7 +51,7 @@
         p.mb-4 A medida que los sistemas crecen, la importancia de una buena arquitectura se hace más evidente. Un sistema bien diseñado es como una ciudad bien planificada: puede crecer y evolucionar sin perder su funcionalidad esencial. Las interfaces claras actúan como contratos entre diferentes partes del sistema, permitiendo que los equipos trabajen de forma independiente sin pisarse los pies.
         .p-4(style="background-color: #E6FBEE")
           p.mb-0 La arquitectura orientada a objetos moderna reconoce que el cambio es inevitable. Los requisitos evolucionarán, las tecnologías cambiarán, y nuestro código debe estar preparado para adaptarse. Esta adaptabilidad no viene por accidente, sino por un diseño cuidadoso que sigue principios probados y patrones establecidos.
-    p.mb-4 El verdadero arte de la arquitectura de software está en encontrar el equilibrio correcto: suficiente estructura para mantener el orden, suficiente flexibilidad para permitir el cambio, y suficiente simplicidad para mantener el sistema comprensible. Al final, el mejor diseño es aquel que permite que el sistema crezca y evolucione con el mínimo dolor posible.
+    p.mb-4 El verdadero arte de la arquitectura de #[em software] está en encontrar el equilibrio correcto: suficiente estructura para mantener el orden, suficiente flexibilidad para permitir el cambio, y suficiente simplicidad para mantener el sistema comprensible. Al final, el mejor diseño es aquel que permite que el sistema crezca y evolucione con el mínimo dolor posible.
     .p-4.mb-4(style="background-color: #DFE9EA")
       .row.justify-content-center.align-items-center
         .col-lg-1.col-5.mb-lg-0.mb-3: img(src='@/assets/curso/temas/35.svg', alt='')
