@@ -31,7 +31,7 @@
         .tarjeta.hover.shadow.p-5.h-100
           .row.justify-content-center.mb-3
             .col-5: img(src='@/assets/curso/temas/15.svg', alt='')
-          p.mb-0.text-center Un recurso digital hereda las características básicas, pero incluye URL, formato de archivo y requisitos de software.
+          p.mb-0.text-center Un recurso digital hereda las características básicas, pero incluye URL, formato de archivo y requisitos de #[em software].
       .col-lg-4.mb-lg-0.mb-3
         .tarjeta.hover.shadow.p-5.h-100
           .row.justify-content-center.mb-3
@@ -88,7 +88,7 @@
                   p.mb-0 #[b Una casa y sus habitaciones:] las habitaciones no existen independientemente de la casa.
                 li.d-flex
                   i.fas.fa-check-circle(style="color: #1169E3")
-                  p.mb-0 #[b Un smartphone y su batería integrada:] la batería es un componente esencial que forma parte del diseño del dispositivo.
+                  p.mb-0 #[b Un #[em smartphone] y su batería integrada:] la batería es un componente esencial que forma parte del diseño del dispositivo.
             .col-lg-6.col-7
               figure
                 img(src='@/assets/curso/temas/18.png', alt='Texto que describa la imagen')
@@ -111,7 +111,7 @@
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 1.
       span Relaciones comunes entre clases u objetos en la POO
-    img(src='@/assets/curso/temas/20.png', alt='').mb-3
+    img(src='@/assets/curso/temas/20.png', alt='La Figura 1 se denomina «Relaciones comunes entre clases u objetos en la POO». Ilustra tres tipos principales de relaciones entre objetos o clases en POO: herencia, composición y agregación, cada relación se presenta con un ejemplo y una explicación.').mb-3
     figcaption Fuente: OIT, 2024.
     Separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -214,14 +214,14 @@
               li.d-flex
                 i.fas.fa-check-circle(style="color: #1169E3")
                 p.mb-0 Más reutilizables y modulares.
-            p.mb-4 Por ejemplo, una aplicación de delivery de comida que sigue estos principios podría fácilmente:
+            p.mb-4 Por ejemplo, una aplicación de #[em delivery] de comida que sigue estos principios podría fácilmente:
             ul.lista-ul--color
               li.d-flex
                 i.fas.fa-check-circle(style="color: #1169E3")
                 p.mb-0 Añadir nuevos métodos de pago sin afectar el sistema existente.
               li.d-flex
                 i.fas.fa-check-circle(style="color: #1169E3")
-                p.mb-0 Incorporar nuevos tipos de entregas (drone, bicicleta, moto).
+                p.mb-0 Incorporar nuevos tipos de entregas (#[em drone], bicicleta, moto).
               li.d-flex
                 i.fas.fa-check-circle(style="color: #1169E3")
                 p.mb-0 Modificar el sistema de calificaciones sin afectar otras funcionalidades.
@@ -273,7 +273,7 @@
               li.d-flex
                 i.fas.fa-check-circle(style="color: #1169E3")
                 p.mb-0 Un farmacéutico dispensa medicamentos y verifica interacciones
-          div(titulo="Escenario 2: plataforma de Streaming")
+          div(titulo="Escenario 2: plataforma de <em>Streaming</em>")
             p.mb-4 Una plataforma de streaming multimedia demuestra perfectamente la composición y agregación:
             .ms-4: p.fw-bold.mb-3 Composición:
             ul.lista-ul--color
@@ -319,7 +319,7 @@
                 p.mb-0 Se añade notificación por SMS.
               li.d-flex
                 i.fas.fa-check-circle(style="color: #1169E3")
-                p.mb-0 Se integra notificación push para móviles.
+                p.mb-0 Se integra notificación #[em push] para móviles.
               li.d-flex
                 i.fas.fa-check-circle(style="color: #1169E3")
                 p.mb-0 Se incorpora mensajería instantánea.
@@ -364,7 +364,7 @@
                 i.fas.fa-check-circle(style="color: #1169E3")
                 p.mb-0 Ejemplo: Separar una clase "Pedido" monolítica en componentes más específicos como "GestorPedido", "CalculadorPrecio", "ValidadorInventario".
             h5 Patrones de implementación efectivos
-            p.mb-3 Patrón Observer para notificaciones:
+            p.mb-3 Patrón #[em Observer] para notificaciones:
               br
               |Sistema de Biblioteca:
             ul.lista-ul--color
@@ -377,6 +377,7 @@
                   |- Actualiza el inventario.
                   br
                   |- Registra la transacción.
+            p.mb-3 Patrón #[em Strategy] para reglas de negocio variables:
             p.mb-0 Sistema de Descuentos:
               br
               | - Descuentos por temporada.

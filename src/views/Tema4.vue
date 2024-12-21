@@ -22,7 +22,7 @@
           .row.justify-content-center
             .col-lg-2.col-5.mb-lg-0.mb-3: img(src='@/assets/curso/temas/30.svg', alt='')
             .col-lg-10
-              p.mb-0 Consideremos un sistema de notificaciones en una red social moderna. Cuando un usuario realiza una acción significativa (publicar una foto, comentar, dar "me gusta"), varios componentes del sistema necesitan reaccionar: las notificaciones push deben enviarse, los contadores deben actualizarse, las cachés deben invalidarse. Este escenario perfecto para el patrón Observer permite que múltiples componentes respondan a eventos sin acoplarse entre sí.
+              p.mb-0 Consideremos un sistema de notificaciones en una red social moderna. Cuando un usuario realiza una acción significativa (publicar una foto, comentar, dar "me gusta"), varios componentes del sistema necesitan reaccionar: las notificaciones push deben enviarse, los contadores deben actualizarse, las cachés deben invalidarse. Este escenario perfecto para el patrón #[em Observer] permite que múltiples componentes respondan a eventos sin acoplarse entre sí.
         p.mb-0 Los patrones creacionales, como #[em Factory Method] y #[em Builder], son particularmente valiosos en sistemas que deben ser flexibles en la creación de objetos. Por ejemplo, en un sistema de procesamiento de documentos, podríamos necesitar crear diferentes tipos de documentos (PDF, Word, HTML) sin que el código cliente necesite conocer los detalles específicos de cómo se construye cada formato.
     Separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')

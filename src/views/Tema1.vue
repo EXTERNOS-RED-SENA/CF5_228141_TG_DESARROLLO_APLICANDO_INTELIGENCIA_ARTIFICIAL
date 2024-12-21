@@ -96,21 +96,21 @@
           .row.justify-content-center.align-items-center
             .col-lg-3.col-5.mb-lg-0.mb-3: img(src='@/assets/curso/temas/7.svg', alt='')
             .col-lg-9
-              h4 Private.
+              h4.fst-italic Private.
               p.mb-0 Solo accesible dentro de la clase.
       .col-lg-4.col-3.mb-lg-0.mb-3
         .tarjeta.hover.p-4.h-100.shadow
           .row.justify-content-center.align-items-center
             .col-lg-3.col-5.mb-lg-0.mb-3: img(src='@/assets/curso/temas/12.svg', alt='')
             .col-lg-9
-              h4 Protected.
+              h4.fst-italic Protected.
               p.mb-0 Accesible en la clase y sus descendientes.
       .col-lg-4.col-3.mb-lg-0.mb-3
         .tarjeta.hover.p-4.h-100.shadow
           .row.justify-content-center.align-items-center
             .col-lg-3.col-5.mb-lg-0.mb-3: img(src='@/assets/curso/temas/13.svg', alt='')
             .col-lg-9
-              h4 Public. 
+              h4.fst-italic Public. 
               p.mb-0 Accesible desde cualquier parte del programa.
     p.bm-3 Un ejemplo práctico de estos conceptos sería:
     .row.justify-content-center.mb-5

@@ -18,7 +18,7 @@
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 2.
       span Diagrama de clases de una biblioteca digital
-    img(src='@/assets/curso/temas/25.svg', alt='').mb-3
+    img(src='@/assets/curso/temas/25.svg', alt='La Figura 2 se denomina «Diagrama de clases de una biblioteca digital». Ilustra un Diagrama de clases UML que muestra la relación entre las clases Usuario, RecursoDigital y Préstamo en una biblioteca digital. Las clases están conectadas por líneas que indican relaciones de muchos a uno (representadas con asteriscos y unos), mostrando cómo un préstamo conecta a un usuario con un recurso digital.').mb-3
     figcaption.mb-4 Fuente: OIT, 2024.
     p.mb-4 Aunque el diagrama de clases es el más utilizado en POO, UML ofrece una variedad de diagramas para modelar diferentes aspectos de un sistema. Cada tipo de diagrama tiene un propósito específico y nos ayuda a visualizar el sistema desde distintas perspectivas.
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
@@ -97,7 +97,7 @@
     Separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.2 Relaciones entre clases
-    p.mb-4 Las herramientas CASE (Computer-Aided Software Engineering) han evolucionado significativamente, permitiéndonos crear y mantener diagramas UML de manera eficiente. Herramientas modernas como Enterprise Architect, StarUML o Draw.io no solo nos permiten crear diagramas visualmente atractivos, sino que también pueden generar código base a partir de nuestros diseños y mantener la documentación sincronizada con el código.Cuando trabajamos en equipo, estas herramientas son particularmente valiosas porque:
+    p.mb-4 Las herramientas CASE (#[em Computer-Aided Software Engineering]) han evolucionado significativamente, permitiéndonos crear y mantener diagramas UML de manera eficiente. Herramientas modernas como Enterprise Architect, StarUML o Draw.io no solo nos permiten crear diagramas visualmente atractivos, sino que también pueden generar código base a partir de nuestros diseños y mantener la documentación sincronizada con el código.Cuando trabajamos en equipo, estas herramientas son particularmente valiosas porque:
     .row.justify-content-center.mb-5
       .col-lg-6.mb-lg-0.mb-3.col-7: img(src='@/assets/curso/temas/27.png', alt='')
       .col-lg-6

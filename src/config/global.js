@@ -182,21 +182,21 @@ export default {
     {
       tema: '1. Fundamentos de la Programación Orientada a Objetos',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2023d, mayo 10). <em>Programación orientada a objetos</em>.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023, mayo 10). <em>Programación orientada a objetos</em>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=TE0TKx9dEtI',
     },
     {
       tema: '1. Fundamentos de la Programación Orientada a Objetos',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021a, julio 1). Abstracción: <em>Paradigma orientado a objetos.</em> ',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021, julio 1). Abstracción: <em>Paradigma orientado a objetos.</em> ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=91N3L3mEGqo',
     },
     {
       tema: '2. Principios de diseño orientado a objetos',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021b, julio 1). <em>Clases y objetos.</em>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021, julio 1). <em>Clases y objetos.</em>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=gVH6zEnCY1c',
     },
@@ -217,49 +217,49 @@ export default {
     {
       tema: '3. Modelado y diseño UML',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2023c, marzo 27). <em>Diagramas de Secuencia UML.</em>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023, marzo 27). <em>Diagramas de Secuencia UML.</em>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=HKbL1bWenIY',
     },
     {
       tema: '3. Modelado y diseño UML',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2023b, marzo 26). <em>UML.</em> ',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023, marzo 26). <em>UML.</em> ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=gVt_zU_E8wY',
     },
     {
       tema: '3. Modelado y diseño UML',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2023a, marzo 25). <em>Diagrama de casos de uso.</em>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023, marzo 25). <em>Diagrama de casos de uso.</em>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=yQSmLldIpNo',
     },
     {
       tema: '3. Modelado y diseño UML',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021c, julio 1). <em>Diagramas de clase: StarUML.</em>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021, julio 1). <em>Diagramas de clase: StarUML.</em>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=fPbUqr49DYU',
     },
     {
       tema: '3. Modelado y diseño UML',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021d, noviembre 24). <em>Diagrama de componentes.</em>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021, noviembre 24). <em>Diagrama de componentes.</em>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=sp8APOAyTfk',
     },
     {
       tema: '4. Patrones y arquitectura orientada a objetos',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021d, diciembre 10). <em>Patrones de diseño de software.</em>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021, diciembre 10). <em>Patrones de diseño de software.</em>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=ZufBcrlUqak',
     },
     {
       tema: '4. Patrones y arquitectura orientada a objetos',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021c, noviembre 26). <em>Diseño de patrones de software: introducción.</em>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021, noviembre 26). <em>Diseño de patrones de software: introducción.</em>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=sQHRHhsRUoA ',
     },
